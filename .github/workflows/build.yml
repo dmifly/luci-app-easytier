@@ -54,7 +54,7 @@ jobs:
           - x86_64
           
         sdk:
-          - 21.02.7
+          - 24.10.3
           - SNAPSHOT
 
     steps:
